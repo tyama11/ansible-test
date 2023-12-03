@@ -1,6 +1,6 @@
 ---
 ## 事前に設定する部分
-webhook_url: https://discord.com/api/webhooks/1155468717807915128/U19yMbPy3zv4k5gpBsg3Lvezswz47bG2jrxUDhIXKheMH0lfonsPWt3rOJ9FdLK_Koda
+webhook_url: https://discord.com/api/webhooks/1180684002873577482/PqDZWqSpSRjp2oywqqaFiuN9WRtPPHRHzho6dr_wQW8LGPe1QTujilFZfAtHNbL9WnaH
 
 github:
   repo_url: git@github.com:tyama11/ansible-test.git
